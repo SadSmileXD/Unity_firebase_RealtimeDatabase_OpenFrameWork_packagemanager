@@ -1,0 +1,14 @@
+{
+  "name": "com.sadsmile.googlesheet-parser",
+  "version": "1.0.0",
+  "displayName": "Google Sheet Data Parser",
+  "description": "구글 시트 데이터를 Unity ScriptableObject로 동기화하는 유틸리티입니다.",
+  "unity": "2022.3",
+  "author": {
+    "name": "SadSmileXD"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "com.unity.modules.unitywebrequest": "1.0.0"
+  }
+}
