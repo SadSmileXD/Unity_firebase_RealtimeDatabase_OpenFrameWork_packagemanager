@@ -2,7 +2,7 @@
     "name": "com.sadsmile.firebase_realtimedatabase_framework",
     "version": "1.0.0",
     "displayName": "RealtimeDatabaseFrameWork",
-    "description": "유니티 파이어 베이스 RTDB 프레임워크",
+    "description": "유니티 파이어 베이스 RTDB 프레임워크 / 파이어베이스  SDK 및 json파일 설치 하셔야합니다. ",
     "unity": "2022.3",
     "author": {
         "name": "SadSmileXD"
