@@ -1,8 +1,8 @@
 {
-  "name": "com.sadsmile.googlesheet-parser",
+  "name": "com.sadsmile.firebase_RealtimeDatabaseFrameWork",
   "version": "1.0.0",
-  "displayName": "Google Sheet Data Parser",
-  "description": "구글 시트 데이터를 Unity ScriptableObject로 동기화하는 유틸리티입니다.",
+  "displayName": "RealtimeDatabaseFrameWork",
+  "description": "유니티 파이어 베이스 RTDB 프레임워크",
   "unity": "2022.3",
   "author": {
     "name": "SadSmileXD"
